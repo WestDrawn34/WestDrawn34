@@ -4,4 +4,4 @@ Meu nome é Samuel Pereira
 
 - estou estudando na Alura
 
-![keroro](https://tenor.com/pt-BR/view/keroro-frog-dancing-anime-anime-animals-gif-20550528)
+![](https://tenor.com/pt-BR/view/keroro-frog-dancing-anime-anime-animals-gif-20550528)
